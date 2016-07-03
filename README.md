@@ -1,11 +1,17 @@
 #from_scratch
 
-Kit starter for React Projects
+Kit starter for React Projects 
 
 Setup  
 ---
 ```npm install```  
 
-Compile 
+Start
 ---
-```npm compile```
+```npm start```
+
+Todo  
+---
+* Add Flux  
+* Add CSS loader for Webpack  
+* Add Database  
